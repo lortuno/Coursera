@@ -19,12 +19,14 @@ div {
 	height:auto;
 	background-color:#F0F0F0;
 }
+
 p {
-	margin-top:5px;
+	clear:right;
+	margin-top:2px;
 	position:relative;
 	display: block;
 	color: #000;
-	padding: 5%;
+	padding: 3%;
 	font-size:120%;
 	
 }
