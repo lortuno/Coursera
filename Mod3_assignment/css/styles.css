@@ -1,0 +1,96 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: 'Oxygen', sans-serif;
+  
+}
+/* body aprt with the menus*/
+* {
+	box-sizing: border-box;
+}
+h1
+{
+	font-family: Helvetica;
+	font-size: 175%;
+	margin-bottom:5px;
+
+}
+p{
+	padding: 8%;
+	margin: 0;
+	color:#000;
+}
+
+section{
+	margin-top:5%;
+	border: 2px solid #CCC;
+	position: relative;
+	font-family: Arial;
+	text-align:justify;
+	background-color: #F0F0F0;
+	width: 100%;
+	overflow: auto;
+	margin-left:2%;
+
+}
+.row {
+	width: 100%;
+}
+#chicken
+{
+	border: 2px solid #CCC;
+	width: 40%;
+	margin-left: 60%;
+	background-color: #ff8c66;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 140%;
+	padding: 5px;
+	text-align: center;
+
+	margin-bottom: 0;
+	margin-top: 0;
+}
+#soups
+{
+	border: 2px solid #CCC;
+	background-color: #d9ff66;
+	width: 40%;
+	margin-left: 60%;
+	 font-family: "Times New Roman", Times, serif;
+	 font-size: 140%;
+	 padding: 5px;
+	 text-align: center;
+	 margin-bottom: 0;
+	margin-top: 0;
+}
+#desserts
+{
+	border: 2px solid #CCC;
+	background-color: #ff66ff;
+	width: 40%;
+	margin-left: 60%;
+	font-family: "Times New Roman", Times, serif;
+    font-size: 140%;
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 0;
+	margin-top: 0;
+}
+/** HEADER **/
+#header-nav {
+  background-color: #f6b319;
+  
+}
+
+
+.navbar-brand h1 { /* Restaurant name */
+  font-family: 'Times', serif;
+  color: #557c3e;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin:auto 0;
+  line-height: .75;
+}
